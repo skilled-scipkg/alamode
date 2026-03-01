@@ -1,0 +1,371 @@
+{
+  "compile_memory_path": "skills/.evidence/memory.md",
+  "compiled_package_id": "alamode",
+  "evidence": {
+    "core_skills": [
+      "alamode-examples-and-tutorials",
+      "alamode-inputs-and-modeling",
+      "alamode-build-and-install",
+      "alamode-simulation-workflows",
+      "alamode-getting-started",
+      "alamode-analysis-and-output"
+    ],
+    "evidence_dir": "skills/.evidence",
+    "files": [
+      "skills/.evidence/alamode-examples-and-tutorials.md",
+      "skills/.evidence/alamode-inputs-and-modeling.md",
+      "skills/.evidence/alamode-build-and-install.md",
+      "skills/.evidence/alamode-simulation-workflows.md",
+      "skills/.evidence/alamode-getting-started.md",
+      "skills/.evidence/alamode-analysis-and-output.md"
+    ]
+  },
+  "generation": {
+    "docs_only": false,
+    "generator_script": "sci-skills-generator/scripts/generate_skills_folder.py",
+    "max_skills": 30,
+    "return_code": 0,
+    "status": "ok"
+  },
+  "mode": "compile",
+  "pass_scope_diffs": {
+    "pass_2": {
+      "added": [
+        "skills/alamode-advanced-topics/SKILL.md",
+        "skills/alamode-advanced-topics/references/doc_map.md",
+        "skills/alamode-advanced-topics/references/source_map.md",
+        "skills/alamode-index/references/doc_map.md",
+        "skills/alamode-index/references/source_map.md"
+      ],
+      "changed": [
+        "skills/alamode-advanced-topics/SKILL.md",
+        "skills/alamode-advanced-topics/references/doc_map.md",
+        "skills/alamode-advanced-topics/references/source_map.md",
+        "skills/alamode-alm-root/SKILL.md",
+        "skills/alamode-alm-root/references/doc_map.md",
+        "skills/alamode-alm-root/references/source_map.md",
+        "skills/alamode-analysis-and-output/SKILL.md",
+        "skills/alamode-anphon-root/SKILL.md",
+        "skills/alamode-anphon-root/references/doc_map.md",
+        "skills/alamode-anphon-root/references/source_map.md",
+        "skills/alamode-api-and-scripting/SKILL.md",
+        "skills/alamode-api-and-scripting/references/doc_map.md",
+        "skills/alamode-api-and-scripting/references/source_map.md",
+        "skills/alamode-build-and-install/SKILL.md",
+        "skills/alamode-download/SKILL.md",
+        "skills/alamode-download/references/doc_map.md",
+        "skills/alamode-download/references/source_map.md",
+        "skills/alamode-examples-and-tutorials/SKILL.md",
+        "skills/alamode-general/SKILL.md",
+        "skills/alamode-general/references/doc_map.md",
+        "skills/alamode-general/references/source_map.md",
+        "skills/alamode-getting-started/SKILL.md",
+        "skills/alamode-index/SKILL.md",
+        "skills/alamode-index/references/doc_map.md",
+        "skills/alamode-index/references/source_map.md",
+        "skills/alamode-inputs-and-modeling/SKILL.md",
+        "skills/alamode-requirements/SKILL.md",
+        "skills/alamode-requirements/references/doc_map.md",
+        "skills/alamode-requirements/references/source_map.md",
+        "skills/alamode-simulation-workflows/SKILL.md",
+        "skills/alamode-theory-and-methods/SKILL.md",
+        "skills/alamode-theory-and-methods/references/doc_map.md",
+        "skills/alamode-theory-and-methods/references/source_map.md",
+        "skills/alamode-troubleshooting/SKILL.md",
+        "skills/alamode-troubleshooting/references/doc_map.md",
+        "skills/alamode-troubleshooting/references/source_map.md"
+      ],
+      "deleted": [
+        "skills/alamode-alm-root/SKILL.md",
+        "skills/alamode-alm-root/references/doc_map.md",
+        "skills/alamode-alm-root/references/source_map.md",
+        "skills/alamode-anphon-root/SKILL.md",
+        "skills/alamode-anphon-root/references/doc_map.md",
+        "skills/alamode-anphon-root/references/source_map.md",
+        "skills/alamode-api-and-scripting/SKILL.md",
+        "skills/alamode-api-and-scripting/references/doc_map.md",
+        "skills/alamode-api-and-scripting/references/source_map.md",
+        "skills/alamode-download/SKILL.md",
+        "skills/alamode-download/references/doc_map.md",
+        "skills/alamode-download/references/source_map.md",
+        "skills/alamode-general/SKILL.md",
+        "skills/alamode-general/references/doc_map.md",
+        "skills/alamode-general/references/source_map.md",
+        "skills/alamode-requirements/SKILL.md",
+        "skills/alamode-requirements/references/doc_map.md",
+        "skills/alamode-requirements/references/source_map.md",
+        "skills/alamode-theory-and-methods/SKILL.md",
+        "skills/alamode-theory-and-methods/references/doc_map.md",
+        "skills/alamode-theory-and-methods/references/source_map.md",
+        "skills/alamode-troubleshooting/SKILL.md",
+        "skills/alamode-troubleshooting/references/doc_map.md",
+        "skills/alamode-troubleshooting/references/source_map.md"
+      ],
+      "modified": [
+        "skills/alamode-analysis-and-output/SKILL.md",
+        "skills/alamode-build-and-install/SKILL.md",
+        "skills/alamode-examples-and-tutorials/SKILL.md",
+        "skills/alamode-getting-started/SKILL.md",
+        "skills/alamode-index/SKILL.md",
+        "skills/alamode-inputs-and-modeling/SKILL.md",
+        "skills/alamode-simulation-workflows/SKILL.md"
+      ]
+    },
+    "pass_3": {
+      "added": [
+        "skills/.compile_report.json",
+        "skills/.evidence/memory.md"
+      ],
+      "changed": [
+        "skills/.compile_report.json",
+        "skills/.evidence/memory.md",
+        "skills/alamode-advanced-topics/SKILL.md",
+        "skills/alamode-advanced-topics/references/source_map.md",
+        "skills/alamode-analysis-and-output/references/source_map.md",
+        "skills/alamode-build-and-install/SKILL.md",
+        "skills/alamode-build-and-install/references/source_map.md",
+        "skills/alamode-examples-and-tutorials/SKILL.md",
+        "skills/alamode-examples-and-tutorials/references/source_map.md",
+        "skills/alamode-getting-started/references/source_map.md",
+        "skills/alamode-index/SKILL.md",
+        "skills/alamode-index/references/source_map.md",
+        "skills/alamode-inputs-and-modeling/references/source_map.md",
+        "skills/alamode-simulation-workflows/SKILL.md",
+        "skills/alamode-simulation-workflows/references/doc_map.md",
+        "skills/alamode-simulation-workflows/references/source_map.md"
+      ],
+      "deleted": [],
+      "modified": [
+        "skills/alamode-advanced-topics/SKILL.md",
+        "skills/alamode-advanced-topics/references/source_map.md",
+        "skills/alamode-analysis-and-output/references/source_map.md",
+        "skills/alamode-build-and-install/SKILL.md",
+        "skills/alamode-build-and-install/references/source_map.md",
+        "skills/alamode-examples-and-tutorials/SKILL.md",
+        "skills/alamode-examples-and-tutorials/references/source_map.md",
+        "skills/alamode-getting-started/references/source_map.md",
+        "skills/alamode-index/SKILL.md",
+        "skills/alamode-index/references/source_map.md",
+        "skills/alamode-inputs-and-modeling/references/source_map.md",
+        "skills/alamode-simulation-workflows/SKILL.md",
+        "skills/alamode-simulation-workflows/references/doc_map.md",
+        "skills/alamode-simulation-workflows/references/source_map.md"
+      ]
+    }
+  },
+  "passes": [
+    {
+      "pass": 1,
+      "return_code": 0,
+      "status": "ok"
+    },
+    {
+      "pass": 2,
+      "return_code": 0,
+      "status": "ok"
+    },
+    {
+      "pass": 3,
+      "return_code": 0,
+      "status": "ok"
+    }
+  ],
+  "profile": {
+    "docs_dirs": [
+      "docs"
+    ],
+    "docs_only": false,
+    "notes": [
+      "Explicit source_dirs are required for deterministic generation because default source dir auto-detection does not include alm/anphon/include/tools/external.",
+      "Generator dry-run succeeds with explicit dirs after fixing f-string syntax errors in sci-skills-generator/scripts/generate_skills_folder.py."
+    ],
+    "package_name": "alamode",
+    "profile_path": "skills/.compile_profile.json",
+    "profile_source": "file",
+    "source_dirs": [
+      "alm",
+      "anphon",
+      "external",
+      "include",
+      "tools"
+    ],
+    "test_dirs": [
+      "test"
+    ],
+    "tutorial_dirs": [
+      "docs/source/tutorial_pages",
+      "example"
+    ],
+    "warnings": []
+  },
+  "project_root": "/mnt/home/taoeli/fermilink_repos/.fermilink-auto-compile/alamode-alamode",
+  "run_id": "compile_20260301T062703222101Z",
+  "skill_plan": {
+    "available_skill_ids": [
+      "alamode-alm-root",
+      "alamode-analysis-and-output",
+      "alamode-anphon-root",
+      "alamode-api-and-scripting",
+      "alamode-build-and-install",
+      "alamode-download",
+      "alamode-examples-and-tutorials",
+      "alamode-general",
+      "alamode-getting-started",
+      "alamode-index",
+      "alamode-inputs-and-modeling",
+      "alamode-requirements",
+      "alamode-simulation-workflows",
+      "alamode-theory-and-methods",
+      "alamode-troubleshooting"
+    ],
+    "core_skill_ids": [
+      "alamode-examples-and-tutorials",
+      "alamode-inputs-and-modeling",
+      "alamode-build-and-install",
+      "alamode-simulation-workflows",
+      "alamode-getting-started",
+      "alamode-analysis-and-output"
+    ],
+    "deferred_gaps": [
+      "No prior open gaps recorded in memory.md; reassess after pass-2 generation outputs are materialized.",
+      "HPC/MPI runtime troubleshooting depth deferred until generated skills are audited against docs/faq and test scripts."
+    ],
+    "goal": "Generate deterministic ALAMODE skills in pass 2, then audit coverage and routing quality in pass 3.",
+    "mode": "compile",
+    "priority_skills": [
+      {
+        "action": "create",
+        "must_cover": [
+          "Docs-first routing to major ALAMODE workflows",
+          "Escalation path from docs to source maps only when needed"
+        ],
+        "reason": "Router quality determines whether agents land on correct topic skills quickly.",
+        "skill_id": "alamode-index",
+        "source_hints": [
+          "docs/source/index.rst",
+          "docs/source/quickstart.rst",
+          "README.md"
+        ]
+      },
+      {
+        "action": "refresh",
+        "must_cover": [
+          "CMake and Makefile-based builds",
+          "Dependency requirements and optional HDF5 path"
+        ],
+        "reason": "Installation/build issues are high-frequency blockers for first-use workflows.",
+        "skill_id": "alamode-build-and-install",
+        "source_hints": [
+          "docs/source/install.rst",
+          "docs/source/install_withHDF5.rst",
+          "CMakeLists.txt",
+          "alm/CMakeLists.txt",
+          "anphon/CMakeLists.txt"
+        ]
+      },
+      {
+        "action": "refresh",
+        "must_cover": [
+          "ALM/ANPHON input formats and parameter meanings",
+          "Modeling choices reflected in tutorial workflows"
+        ],
+        "reason": "Input semantics and modeling setup drive correctness for force-constant extraction.",
+        "skill_id": "alamode-inputs-and-modeling",
+        "source_hints": [
+          "docs/source/almdir/inputalm.rst",
+          "docs/source/anphondir/inputanphon.rst",
+          "docs/source/tutorial_pages/silicon_ifc.rst",
+          "example/Si"
+        ]
+      },
+      {
+        "action": "refresh",
+        "must_cover": [
+          "Canonical ALM to ANPHON execution flow",
+          "Representative command/input sequence from examples"
+        ],
+        "reason": "Users need end-to-end run procedures more often than isolated reference details.",
+        "skill_id": "alamode-simulation-workflows",
+        "source_hints": [
+          "docs/source/tutorial.rst",
+          "docs/source/tutorial_pages",
+          "example/BaTiO3",
+          "example/SrTiO3",
+          "example/ZnO"
+        ]
+      },
+      {
+        "action": "refresh",
+        "must_cover": [
+          "Key ALM/ANPHON output artifacts and interpretation",
+          "Validation checkpoints from tutorial reference outputs"
+        ],
+        "reason": "Interpreting outputs is critical for validating scientific results.",
+        "skill_id": "alamode-analysis-and-output",
+        "source_hints": [
+          "docs/source/almdir/outputalm.rst",
+          "docs/source/anphondir/outputanphon.rst",
+          "example/*/reference"
+        ]
+      },
+      {
+        "action": "audit",
+        "must_cover": [
+          "Check for one-doc topics to merge into advanced-topics",
+          "Verify source_map/doc_map presence and docs-first wording"
+        ],
+        "reason": "Pass 3 should verify coverage integrity and reduce low-signal topic fragmentation.",
+        "skill_id": "compile-audit",
+        "source_hints": [
+          "sci-skills-generator/references/generation-rubric.md",
+          "skills/*/references/doc_map.md",
+          "skills/*/references/source_map.md"
+        ]
+      }
+    ],
+    "version": 1,
+    "warnings": []
+  },
+  "skill_plan_path": "skills/.evidence/skill_plan.json",
+  "validation": {
+    "core_skills_checked": [
+      "alamode-advanced-topics",
+      "alamode-simulation-workflows",
+      "alamode-examples-and-tutorials",
+      "alamode-inputs-and-modeling",
+      "alamode-build-and-install",
+      "alamode-getting-started"
+    ],
+    "docs_only": false,
+    "errors": [
+      "/mnt/home/taoeli/fermilink_repos/.fermilink-auto-compile/alamode-alamode/skills/alamode-advanced-topics/SKILL.md: missing `## High-Signal Playbook` section.",
+      "/mnt/home/taoeli/fermilink_repos/.fermilink-auto-compile/alamode-alamode/skills/alamode-simulation-workflows/SKILL.md: playbook missing required element containing 'convergence/validation'.",
+      "/mnt/home/taoeli/fermilink_repos/.fermilink-auto-compile/alamode-alamode/skills/alamode-examples-and-tutorials/SKILL.md: playbook missing required element containing 'convergence/validation'.",
+      "/mnt/home/taoeli/fermilink_repos/.fermilink-auto-compile/alamode-alamode/skills/alamode-inputs-and-modeling/SKILL.md: playbook missing required element containing 'convergence/validation'.",
+      "/mnt/home/taoeli/fermilink_repos/.fermilink-auto-compile/alamode-alamode/skills/alamode-build-and-install/SKILL.md: playbook missing required element containing 'convergence/validation'.",
+      "/mnt/home/taoeli/fermilink_repos/.fermilink-auto-compile/alamode-alamode/skills/alamode-getting-started/SKILL.md: playbook missing required element containing 'convergence/validation'.",
+      "skill plan target missing from generated skills/: compile-audit"
+    ],
+    "index_skills": [
+      "alamode-index"
+    ],
+    "missing_planned_skills": [
+      "compile-audit"
+    ],
+    "ok": false,
+    "planned_skill_ids": [
+      "alamode-index",
+      "alamode-build-and-install",
+      "alamode-inputs-and-modeling",
+      "alamode-simulation-workflows",
+      "alamode-analysis-and-output",
+      "compile-audit"
+    ],
+    "previous_source_inventory": {},
+    "skills_total": 8,
+    "source_inventory": {},
+    "source_links_total": 57,
+    "topic_skills": 7,
+    "warnings": []
+  }
+}
